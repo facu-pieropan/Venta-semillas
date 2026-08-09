@@ -32,4 +32,5 @@ Sistema de escritorio desarrollado en Python bajo el patrón de diseño **Modelo
 1. Asegúrate de tener instalado **Python**.
 2. Instala la librería de diseño moderno ejecutando en tu terminal:
    ```bash
+   
    pip install customtkinter
