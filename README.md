@@ -29,7 +29,7 @@ Sistema de escritorio desarrollado en Python bajo el patrón de diseño **Modelo
 ## Ejecución
 
 1. Asegúrate de tener instalado **Python**.
-2. Descarga los archivos del repositorio.
+2. Descarga los archivos del repositorio en una misma carpeta.
 3. Ejecuta el siguiente comando en tu terminal dentro de la carpeta del proyecto:
 
 ```bash
