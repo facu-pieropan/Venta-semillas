@@ -1,6 +1,6 @@
 # Sistema de Gestión de Venta de Semillas 
 
-Sistema de escritorio desarrollado en Python utilizando el patrón de diseño **Modelo-Vista-Controlador (MVC)**, interfaces gráficas con **Tkinter** y persistencia de datos con **SQLite**. Proyecto orientado al ámbito académico de la Facultad de Ciencias Agrarias de la UNNE[cite: 3, 5, 6].
+Sistema de escritorio desarrollado en Python utilizando el patrón de diseño **Modelo-Vista-Controlador (MVC)**, interfaces gráficas con **Tkinter** y persistencia de datos con **SQLite**.
 
 ---
 
